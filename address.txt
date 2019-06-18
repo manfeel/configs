@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/manfeel/configs/master/files/update.7z
+https://raw.githubusercontent.com/manfeel/configs/master/update.7z
